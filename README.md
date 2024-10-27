@@ -1,23 +1,20 @@
-# Weather Icons Light mapped to Openweathermap Icon Codes
+# owm icons
 
-
-
-Weather Icons Lite is a collection of weather themed icons, **which are already integrated within node-RED**, or can be used in any project that needs high quality weather & moon phase icons!
+<i style="color:gray;">Weather Icons Light mapped to Openweathermap Icon Codes</i>
 
 ![Icon Preview](images/example.PNG)
 
+Weather Icons Lite is a collection of weather themed icons, **which are already integrated within node-RED**, or can be used in any project that needs high quality weather & moon phase icons!
 
-Here, the example images are renamed to match Openweathermap Icon Codes,
+This repository provides images of these icons renamed to match OpenWeatherMap Icon Codes, making them easy to access and use directly with OpenWeatherMap’s API responses.
 
-For example, you may access 
+For example, you can use the following URL:
 
 [https://raw.githubusercontent.com/weberi/weather-icons-lite/refs/heads/master/images/**01d**.jpg](https://raw.githubusercontent.com/weberi/weather-icons-lite/refs/heads/master/images/01d.jpg)
 
-instead of 
+instead of:
 
 [https://openweathermap.org/img/wn/**01d**@2x.png](https://openweathermap.org/img/wn/01d@2x.png)
-
-
 
 
 ## Credits
